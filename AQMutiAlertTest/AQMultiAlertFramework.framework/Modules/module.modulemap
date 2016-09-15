@@ -1,0 +1,6 @@
+framework module AQMultiAlertFramework {
+  umbrella header "AQMultiAlertFramework.h"
+
+  export *
+  module * { export * }
+}
